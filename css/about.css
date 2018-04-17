@@ -1,0 +1,24 @@
+.logo-small {
+    color: #720c3c;
+    font-size: 50px;
+}
+
+.logo1 {
+    color: #720c3c;
+    font-size: 200px;
+}
+h2{
+    text-align: center;
+    color: #720c3c;
+    font-size: 34px;
+
+}
+h4, p {
+    margin-left: 0px;
+}
+@media screen and (max-width: 768px) {
+    .col-sm-4 {
+        text-align: center;
+        margin: 25px 0;
+    }
+}
